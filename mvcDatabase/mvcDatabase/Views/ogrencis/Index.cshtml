@@ -1,0 +1,47 @@
+﻿@model IEnumerable<mvcDatabase.ogrenci>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ad_soyad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ders.ders_adi)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ad_soyad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ders.ders_adi)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.ogrenci_ID }) |
+                @Html.ActionLink("Details", "Details", new { id=item.ogrenci_ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.ogrenci_ID })
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

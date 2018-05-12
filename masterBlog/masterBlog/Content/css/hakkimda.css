@@ -1,0 +1,124 @@
+﻿.sari-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 220px;
+    position: relative;
+}
+.beyaz-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 220px;
+    position: relative;
+}
+
+.sari .sari-container .resim {
+    width: 200px;
+    height: 152px;
+    margin-top: 45px;
+    float: left;
+    position: relative;
+    background-image: url('../img/odul.jpg');
+    background-repeat: no-repeat;
+    top: 0px;
+    left: 0px;
+}
+
+.sari .sari-container .sariyazi {
+    width: 740px;
+    height: 120px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+}
+
+.sari .sari-container p {
+    float: left;
+    position: relative;
+    font-size: 14px;
+    margin-left: 50px;
+    font-family: 'Trebuchet MS';
+}
+.sari .sari-container h1 {
+    font-size: 22px;
+    margin-left: 10px;
+    font-family: 'Trajan Pro';
+}
+
+.beyaz-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 220px;
+    position: relative;
+    color:black;
+}
+
+.beyaz .beyaz-container .resim {
+    width: 191px;
+    height: 171px;
+    float: left;
+    position: relative;
+    background-image: url('../img/gaste.jpg');
+    background-repeat: no-repeat;
+}
+
+.beyaz .beyaz-container .beyazyazi {
+    width: 749px;
+    height: 120px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+}
+
+.beyaz .beyaz-container p {
+    float: left;
+    position: relative;
+    font-size: 14px;
+    margin-left: 50px;
+    font-family: 'Trebuchet MS';
+}
+.beyaz .beyaz-container h1 {
+    font-size: 22px;
+    margin-left: 10px;
+    font-family: 'Trajan Pro';
+}
+
+
+.kirmizi-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0px;
+    height: 240px;
+    position: relative;
+}
+.resim {
+    width: 225px;
+    height: 224px;
+    float: left;
+    position: relative;
+    background-image: url('../img/rm2.jpg');
+    background-repeat: no-repeat;
+}
+.kirmizi .kirmizi-container .kirmiziyazi {
+    width: 705px;
+    height: 240px;
+    float: left;
+    position: relative;
+}
+
+.kirmizi .kirmizi-container p {
+    float: left;
+    position: relative;
+    font-size: 14px;
+    margin-left: 10px;
+    font-family: 'Trebuchet MS';
+}
+
+.kirmizi .kirmizi-container h1 {
+    font-size: 22px;
+    margin-left: 10px;
+    font-family: 'Trajan Pro';
+}

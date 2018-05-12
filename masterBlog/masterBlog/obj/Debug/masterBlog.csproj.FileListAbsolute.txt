@@ -1,0 +1,30 @@
+c:\users\alican\documents\visual studio 2015\Projects\masterBlog\masterBlog\bin\masterBlog.dll.config
+c:\users\alican\documents\visual studio 2015\Projects\masterBlog\masterBlog\bin\masterBlog.dll
+c:\users\alican\documents\visual studio 2015\Projects\masterBlog\masterBlog\bin\masterBlog.pdb
+c:\users\alican\documents\visual studio 2015\Projects\masterBlog\masterBlog\obj\Debug\masterBlog.csprojResolveAssemblyReference.cache
+c:\users\alican\documents\visual studio 2015\Projects\masterBlog\masterBlog\obj\Debug\masterBlog.dll
+c:\users\alican\documents\visual studio 2015\Projects\masterBlog\masterBlog\obj\Debug\masterBlog.pdb
+C:\Users\Alican\Documents\Visual Studio 2015\Projects\masterBlog\masterBlog\bin\CKEditor.NET.dll
+C:\Users\Alican\Documents\Visual Studio 2015\Projects\masterBlog\masterBlog\bin\CKEditor.NET.pdb
+C:\Users\microman\Desktop\masterBlog\masterBlog\bin\masterBlog.dll.config
+C:\Users\microman\Desktop\masterBlog\masterBlog\bin\masterBlog.dll
+C:\Users\microman\Desktop\masterBlog\masterBlog\bin\masterBlog.pdb
+C:\Users\microman\Desktop\masterBlog\masterBlog\bin\CKEditor.NET.pdb
+C:\Users\microman\Desktop\masterBlog\masterBlog\obj\Debug\masterBlog.csprojResolveAssemblyReference.cache
+C:\Users\microman\Desktop\masterBlog\masterBlog\obj\Debug\masterBlog.dll
+C:\Users\microman\Desktop\masterBlog\masterBlog\obj\Debug\masterBlog.pdb
+C:\Users\microman\Desktop\masterBlog\masterBlog\bin\EntityFramework.dll
+C:\Users\microman\Desktop\masterBlog\masterBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\microman\Desktop\masterBlog\masterBlog\bin\EntityFramework.xml
+C:\Users\microman\Desktop\masterBlog\masterBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Elvan\Desktop\masterBlog\masterBlog\bin\masterBlog.dll.config
+C:\Users\Elvan\Desktop\masterBlog\masterBlog\bin\masterBlog.dll
+C:\Users\Elvan\Desktop\masterBlog\masterBlog\bin\masterBlog.pdb
+C:\Users\Elvan\Desktop\masterBlog\masterBlog\bin\EntityFramework.dll
+C:\Users\Elvan\Desktop\masterBlog\masterBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Elvan\Desktop\masterBlog\masterBlog\bin\CKEditor.NET.pdb
+C:\Users\Elvan\Desktop\masterBlog\masterBlog\bin\EntityFramework.xml
+C:\Users\Elvan\Desktop\masterBlog\masterBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Elvan\Desktop\masterBlog\masterBlog\obj\Debug\masterBlog.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\masterBlog\masterBlog\obj\Debug\masterBlog.dll
+C:\Users\Elvan\Desktop\masterBlog\masterBlog\obj\Debug\masterBlog.pdb

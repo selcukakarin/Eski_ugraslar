@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OgrenciBilgiModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ders">
+    <Key>
+      <PropertyRef Name="ders_ID" />
+    </Key>
+    <Property Name="ders_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ders_adi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="ogrenci" Relationship="Self.FK_ogrenci_ders" FromRole="ders" ToRole="ogrenci" />
+  </EntityType>
+  <EntityType Name="ogrenci">
+    <Key>
+      <PropertyRef Name="ogrenci_ID" />
+    </Key>
+    <Property Name="ogrenci_ID" Type="Int32" Nullable="false" />
+    <Property Name="ad_soyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ders_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="ders" Relationship="Self.FK_ogrenci_ders" FromRole="ogrenci" ToRole="ders" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_ogrenci_ders">
+    <End Role="ders" Type="Self.ders" Multiplicity="1" />
+    <End Role="ogrenci" Type="Self.ogrenci" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ders">
+        <PropertyRef Name="ders_ID" />
+      </Principal>
+      <Dependent Role="ogrenci">
+        <PropertyRef Name="ders_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="OgrenciBilgiEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ders" EntityType="Self.ders" />
+    <EntitySet Name="ogrenci" EntityType="Self.ogrenci" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <AssociationSet Name="FK_ogrenci_ders" Association="Self.FK_ogrenci_ders">
+      <End Role="ders" EntitySet="ders" />
+      <End Role="ogrenci" EntitySet="ogrenci" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

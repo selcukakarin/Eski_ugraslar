@@ -1,0 +1,164 @@
+﻿.kirmizi {
+    background-color: #c7583c;
+    width: 100%;
+    
+}
+
+.kirmizi-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    height: 500px;
+    position: relative;
+}
+
+.kirmizi .kirmizi-container .resim {
+    width: 191px;
+    height: 171px;
+    float: left;
+    position: relative;
+    background-image: url('../img/resim.png');
+    background-repeat: no-repeat;
+}
+
+.kirmizi .kirmizi-container .kirmiziyazi {
+    width: 940px;
+    height: 120px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+}
+
+.kirmizi .kirmizi-container p {
+    width:940px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+    margin-left:0px;
+    font-family: 'Trebuchet MS';
+    text-align:center;
+}
+
+.kirmizi .kirmizi-container h1 {
+    width:940px;
+    font-size: 22px;
+    position: relative;
+    float:left;
+    font-family: 'Trajan Pro';
+    margin-left:0px;
+    text-align:center;
+}
+
+.beyaz-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    position: relative;
+    color:#000;
+}
+.sari-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 550px;
+    position: relative;
+}
+
+.sari .sari-container .resim {
+    width: 191px;
+    height: 171px;
+    float: left;
+    position: relative;
+    background-image: url('../img/resim.png');
+    background-repeat: no-repeat;
+}
+
+.sari .sari-container .sariyazi {
+    width: 749px;
+    height: 120px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+}
+
+.sari .sari-container p {
+    width:940px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+    margin-left:0px;
+    font-family: 'Trebuchet MS';
+    text-align:center;
+}
+.sari .sari-container h1 {
+    width:940px;
+    font-size: 22px;
+    position: relative;
+    float:left;
+    font-family: 'Trajan Pro';
+    margin-left:0px;
+    text-align:center;
+}
+
+.beyaz .beyaz-container .resim {
+    width: 191px;
+    height: 171px;
+    float: left;
+    position: relative;
+    background-image: url('../img/resim.png');
+    background-repeat: no-repeat;
+}
+
+.beyaz .beyaz-container .beyazyazi {
+    width: 749px;
+    height: 120px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+    top: 0px;
+    left: 0px;
+}
+
+.beyaz .beyaz-container p {
+    float: left;
+    position: relative;
+    font-size: 14px;
+    margin-left: 50px;
+    font-family: 'Trebuchet MS';
+    color:black;
+    text-align:center;
+}
+.beyaz .beyaz-container h1 {
+    width:940px;
+    font-size: 22px;
+    position: relative;
+    float:left;
+    font-family: 'Trajan Pro';
+    margin-left:0px;
+    text-align:center;
+    color:black;
+}
+
+.ozgur{
+    width:940px;
+    height:300px;
+    position:relative;
+    float:left;
+}
+.ozgurresim {
+    width: 400px;
+    height: 300px;
+    margin:auto;
+    position:relative;
+}
+.siyah{
+    color:#000;
+    text-align:center;
+    margin:auto;
+    font-size: 14px;
+    font-family: 'Trebuchet MS';
+    
+}

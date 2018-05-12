@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masterAdmin.master.cs" Inherits="masterBlog.masterAdmin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Content/css/adminSayfa.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    </head>
+<body>
+    <form id="form1" runat="server">
+
+        <div class="panel">
+            <div class="header">Admin Paneline Hoşgeldiniz</div>
+            <div class="sol">
+                <a><div class="solmenu">Menüler</div></a>
+                <a href="adminBlog.aspx"><div class="solmenu">Urunler</div></a>
+            </div>
+            <div class="sag">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    
+                </asp:ContentPlaceHolder>
+            </div>
+            
+        </div>
+    </form>
+</body>
+</html>

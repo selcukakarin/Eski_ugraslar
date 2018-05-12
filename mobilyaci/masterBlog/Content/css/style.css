@@ -1,0 +1,757 @@
+﻿/* *** by Mert Şimşek Resul Yetkiner *** */
+@import url(normalize.css);
+
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+:-moz-placeholder { 
+   opacity:1;
+   color: #fff;
+}
+ 
+::-moz-placeholder { 
+   opacity:1;
+   color: #fff;
+ 
+}
+ 
+:-ms-input-placeholder { 
+   opacity:1;
+   color: #fff;
+}
+ 
+::-webkit-input-placeholder { 
+    opacity:1;
+    color: #fff;
+}
+
+body {
+    font-family: 'Trebuchet MS','Trajan Pro','OCR A Std',sans-serif;
+    font-size: 16px;
+    color: white;
+    cursor: default;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    transition: all .2s ease-in-out;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+/*@media screen and (min-width:960px) {*/
+/* ***nav *** */
+nav {
+    width: 100%;
+    height: 55px;
+    position: relative;
+    margin: auto;
+    background-image: url('../img/nav.jpg');
+    background-size: cover;
+}
+
+#nav {
+    width: 940px;
+    height: 55px;
+    position: relative;
+    margin: auto;
+}
+
+#nav-container {
+    width: 607px;
+    height: 55px;
+    position: relative;
+    float: left;
+}
+
+#nav-bar-container {
+    width: 607px;
+    height: 3px;
+    position: relative;
+    float: left;
+}
+
+#nav-bar {
+    width: 102px;
+    height: 3px;
+    position: relative;
+    background: #fff;
+    left: 0;
+    transition: all .2s ease-in-out;
+}
+
+
+.kullanıcı {
+    width: 333px;
+    height: 30px;
+    position: relative;
+    float: right;
+    margin-top: 7px;
+}
+.kaydol {
+    width: 333px;
+    height: 18px;
+    position: relative;
+    float: right;
+    margin-top: 0px;
+}
+.kaydol-yazi {
+    width: 116px;
+    height: 18px;
+    margin-left: 10px;
+    position: relative;
+    float: left;
+    font-family:'Trajan Pro';
+    font-size:12px;
+    color:#fff;
+}
+
+.kullanıcı-button {
+    height: 22px;
+    width: 33px;
+    position: relative;
+    float: left;
+}
+
+.kullanıcı-textbox {
+    width: 135px;
+    height: 20px;
+    margin-left: 5px;
+    position: relative;
+    float: left;
+    border:1px solid white;
+    background-color:#011c27;
+}
+
+.nav {
+    width: 100px;
+    height: 52px;
+    line-height: 51px;
+    position: relative;
+    float: left;
+    border-right: 1px solid #096287;
+    text-align: center;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    font-family:'Trajan Pro';
+    font-size:13px;    
+}
+
+    .nav:hover {
+        background: #005375;
+    }
+
+.nav-first-child {
+    border-left: 1px solid #096287;
+}
+
+/* *** header *** */
+header {
+    width: 100%;
+    height: 500px;
+    position: relative;
+    top: 0px;
+    background-image: url('../img/blog.jpg');
+    background-size: cover;
+}
+
+.header-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    height: 417px;
+    position: relative;
+}
+footer {
+    width: 100%;
+    height: 340px;
+    position: relative;
+    bottom: 0px;
+
+}
+
+.h1 {
+    width: 940px;
+    height: 32px;
+    font-size: 32px;
+    text-align: center;
+    position: relative;
+    float: left;
+    font-family:'Trajan Pro';
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h2 {
+    width: 940px;
+    height: 18px;
+    font-size: 16px;
+    text-align: center;
+    position: relative;
+    float: left;
+    font-family: 'Lucida Calligraphy';
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buttondiv {
+    width: 940px;
+    height: 40px;
+    position: relative;
+    float: left;
+}
+
+.button {
+    width: 88px;
+    height: 30px;
+    font-family: 'Trajan Pro';
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    border: 3px solid white;
+    box-shadow: 0 0 1px rgba(0,0,0,1);
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    padding: 2px;
+    margin-left: 426px;
+    background-color: #01445e;
+    color: #fff;
+}
+
+
+
+.kirmizi {
+    background-color: #c7583c;
+    width: 100%;
+}
+
+.kirmizi-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    height: 220px;
+    position: relative;
+}
+
+.resim {
+    width: 191px;
+    height: 171px;
+    float: left;
+    position: relative;
+    
+    background-repeat: no-repeat;
+}
+
+.kirmizi .kirmizi-container .kirmiziyazi {
+    width: 749px;
+    height: 120px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+}
+
+.kirmizi .kirmizi-container p {
+    float: left;
+    position: relative;
+    font-size: 14px;
+    margin-left: 50px;
+    font-family: 'Trebuchet MS';
+    top: 0px;
+    left: 0px;
+}
+
+.kirmizi .kirmizi-container h1 {
+    font-size: 22px;
+    margin-left: 50px;
+    font-family: 'Trajan Pro';
+}
+
+.button1div {
+    width: 749px;
+    height: 40px;
+    position: relative;
+    float: left;
+}
+
+.button1 {
+    width: 88px;
+    height: 30px;
+    text-align: center;
+    position: relative;
+    border: 3px solid white;
+    box-shadow: 0 0 1px rgba(0,0,0,1);
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    padding: 2px;
+    float: right;
+    margin-right: 80px;
+    margin-top: 15px;
+    background-color: #c7583c;
+    color: #fff;
+    font-family: 'Trajan Pro';
+    font-size: 12px;
+}
+
+.sari {
+    background-color: #fbbe67;
+    width: 100%;
+}
+
+.sari-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 355px;
+    position: relative;
+}
+
+.ok {
+    width: 940px;
+    padding-top: 0px;
+    height: 17px;
+    position: relative;
+}
+
+.okresim {
+    width: 36px;
+    height: 17px;
+    margin: auto;
+}
+
+.baslik {
+    width: 940px;
+    height: 40px;
+    float: left;
+    position: relative;
+    margin-top: 25px;
+}
+
+    .baslik h3 {
+        height: 18px;
+        position: relative;
+        font-size: 18px;
+        font-family: 'Trajan Pro';
+        margin: auto;
+        text-align: center;
+        color: #000;
+    }
+
+    .baslik h4 {
+        height: 18px;
+        position: relative;
+        font-size: 18px;
+        font-family: 'Trajan Pro';
+        margin: auto;
+        text-align: center;
+        color: #fff;
+    }
+
+.hobiresim {
+    position: relative;
+    float: left;
+    width: 940px;
+    height: 195px;
+    margin: auto;
+}
+
+.hobir {
+    position: relative;
+    float: left;
+    width: 171px;
+    height: 183px;
+    margin-left: 14px;
+}
+
+.hobi-ilk {
+    position: relative;
+    float: left;
+    width: 171px;
+    height: 183px;
+    margin-left: 107px;
+}
+
+.hobi-son {
+    position: relative;
+    float: left;
+    width: 171px;
+    height: 183px;
+    margin-left: 14px;
+}
+
+.hobi-yazilar {
+    position: relative;
+    float: left;
+    width: 940px;
+    height: 30px;
+    margin: auto;
+}
+
+.hobi-üst {
+    position: relative;
+    float: left;
+    width: 940px;
+    height: 15px;
+    color: #000;
+}
+
+.hobi-üst-ilk {
+    font-family: 'Trajan Pro';
+    font-size: 10px;
+    position: relative;
+    float: left;
+    width: 171px;
+    height: 15px;
+    margin-left: 107px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.hobi-üst-yazi {
+    font-family: 'Trajan Pro';
+    font-size: 10px;
+    position: relative;
+    float: left;
+    width: 171px;
+    height: 15px;
+    margin-left: 14px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.hobi-üst-son {
+    font-family: 'Trajan Pro';
+    font-size: 10px;
+    position: relative;
+    float: left;
+    width: 171px;
+    height: 15px;
+    margin-right: 107px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.hobi-alt {
+    position: relative;
+    float: left;
+    width: 940px;
+    height: 10px;
+    margin-top: 5px;
+    margin: auto;
+    color: #c7583c;
+}
+
+.hobi-alt-ilk {
+    font-family: 'Trajan Pro';
+    font-size: 10px;
+    position: relative;
+    float: left;
+    width: 171px;
+    height: 7px;
+    margin-left: 107px;
+    text-align: center;
+}
+
+.hobi-alt-yazi {
+    font-family: 'Trajan Pro';
+    font-size: 10px;
+    position: relative;
+    float: left;
+    width: 171px;
+    height: 7px;
+    margin-left: 14px;
+    text-align: center;
+}
+
+.hobi-alt-son {
+    font-family: 'Trajan Pro';
+    font-size: 10px;
+    position: relative;
+    float: left;
+    width: 171px;
+    height: 7px;
+    margin-right: 107px;
+    text-align: center;
+}
+
+.beyaz {
+    background-color: #fff;
+    width: 100%;
+}
+
+.beyaz-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 490px;
+    position: relative;
+}
+
+.beyaz-resim-div {
+    width: 940px;
+    height: 161px;
+    margin-bottom: 15px;
+    position: relative;
+    float: left;
+}
+
+.beyaz-resim-sag {
+    width: 350px;
+    height: 161px;
+    margin-right: 107px;
+    position: relative;
+    float: left;
+    margin-left: 12px;
+    background-image: url('../img/4.jpg');
+}
+
+.beyaz-resim-sol {
+    width: 350px;
+    height: 161px;
+    margin-left: 107px;
+    position: relative;
+    float: left;
+    margin-right: 12px;
+    background-image: url('../img/5.jpg');
+}
+
+
+
+.beyaz-resim-sol-alt {
+    width: 350px;
+    height: 161px;
+    margin-left: 107px;
+    position: relative;
+    float: left;
+    margin-right: 12px;
+    background-image: url('../img/6.jpg');
+}
+
+.beyaz-resim-sag-alt {
+    width: 350px;
+    height: 161px;
+    margin-right: 107px;
+    position: relative;
+    float: left;
+    margin-left: 12px;
+    background-image: url('../img/7.jpg');
+}
+
+
+.beyaz-resim-bg {
+    width: 350px;
+    height: 28px;
+    margin-top: 113px;
+    position: relative;
+    background-color: #000;
+    opacity: 0.7;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.beyaz-resim-yazi {
+    width: 350px;
+    height: 18px;
+    position: relative;
+    font-family: 'Trajan Pro';
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+}
+
+.beyaz-resim-altyazi {
+    width: 350px;
+    height: 8px;
+    position: relative;
+    font-family: 'Trajan Pro';
+    font-size: 8px;
+    color: #fff;
+    text-align: center;
+}
+
+.beyazbuttondiv {
+    width: 940px;
+    height: 40px;
+    position: relative;
+    color: #000;
+}
+
+.beyazbutton {
+    width: 88px;
+    height: 30px;
+    font-family: 'Trajan Pro';
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    border: 3px solid black;
+    box-shadow: 0 0 1px rgba(0,0,0,1);
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    padding: 2px;
+    margin-left: 426px;
+}
+
+.yesil {
+    background-color: #adc29b;
+    width: 100%;
+}
+
+.yesil-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 290px;
+    position: relative;
+}
+
+.mesaj-bolum {
+    width: 940px;
+    height: 159px;
+    position: relative;
+    float: left;
+}
+
+.mesaj-text-first {
+    width: 191px;
+    height: 30px;
+    float: left;
+    position: relative;
+    font-family: 'Trajan Pro';
+    font-size: 10px;
+    background-color: #9ab087;
+    margin-left: 217px;
+    line-height: 28px;
+    color: white;
+    text-indent:5px;
+}
+
+.mesaj-text {
+    width: 191px;
+    height: 30px;
+    float: left;
+    margin-top: 10px;
+    position: relative;
+    font-family: 'Trajan Pro';
+    font-size: 10px;
+    background-color: #9ab087;
+    margin-left: 217px;
+    color: white;
+    line-height: 28px;
+    text-indent:5px;
+}
+
+.mesaj-kutu {
+    width: 315px;
+    height: 153px;
+    float: right;
+    position: relative;
+    font-family: 'Trajan Pro';
+    font-size: 10px;
+    background-color: #9ab087;
+    margin-right: 217px;
+    text-align: justify;
+    font-size: 12px;
+    text-indent:5px;
+    color: white;
+    top: 0px;
+    left: 0px;
+}
+
+.yesilbuttondiv {
+    width: 940px;
+    height: 40px;
+    position: relative;
+    float: left;
+    margin-top: 5px;
+}
+
+.yesilbutton {
+    width: 88px;
+    height: 30px;
+    font-family: 'Trajan Pro';
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    border: 3px solid white;
+    box-shadow: 0 0 1px rgba(0,0,0,1);
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    float: right;
+    margin-right: 217px;
+    color: #fff;
+}
+
+.mavi {
+    background-color: #013b51;
+    width: 100%;
+}
+
+.mavi-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+    position: relative;
+}
+
+.mavi-yazi-dis {
+    margin-top: 13px;
+    float: left;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 294px;
+}
+
+.mavi-yazi {
+    width: 291px;
+    height: 13px;
+    font-family: 'Californian FB';
+    font-size: 13px;
+    color: #fff;
+}
+
+.sosyal {
+    width: 111px;
+    height: 40px;
+    position: relative;
+    float: right;
+    
+}
+
+.face {
+    width: 26px;
+    height: 40px;
+    position: relative;
+    float: right;
+}
+
+.twitter {
+    width: 31px;
+    height: 40px;
+    position: relative;
+    float: right;
+}
+
+.google {
+    width: 25px;
+    height: 40px;
+    position: relative;
+    float: right;
+}
+
+.instagram {
+    width: 29px;
+    height: 40px;
+    position: relative;
+    float: right;
+}
+

@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<h3>Yazılım Dilleri</h3>
+<ul>
+    @{
+        string[] dizi = new string[4];
+        dizi[0] = "Sel";
+        dizi[1] = "çuk";
+        dizi[2] = "Aka";
+        dizi[3] = "rın";
+        byte i = 0;
+        while (i < dizi.Length)
+        {
+            <li>@dizi[i]</li>
+            i++;
+        }
+    }
+</ul>
+
+<img src="~/at.jpg" />
+
+@{
+    string resimYolu = "~/at.jpg";
+}
+
+<img src="@Href(resimYolu)"/>
+
+<p>Use this area to provide additional information.</p>

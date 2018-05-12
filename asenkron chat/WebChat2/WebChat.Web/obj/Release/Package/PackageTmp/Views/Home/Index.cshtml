@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <p>
+        Lütfen web chat kullanmak için uygulamamızı indirin
+        <input type="button" value="Programımızı indirin" class="btn btn-success" id="btnDownload"/>
+
+    </p>
+</div>
+@section scripts{
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            $.connection.hub.start();
+            $("#btnDownload").click(function () {
+                window.location.assign("/Chat.rar");
+            });
+        });
+    </script>
+}

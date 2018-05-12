@@ -1,0 +1,24 @@
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\obj\Debug\DatatableCRUD.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\DatatableCRUD.dll.config
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\DatatableCRUD.dll
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\DatatableCRUD.pdb
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\EntityFramework.dll
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\System.Web.Helpers.dll
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\System.Web.Mvc.dll
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\System.Web.Razor.dll
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\System.Web.Webpages.dll
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\System.Web.Webpages.Razor.dll
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\EntityFramework.xml
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\System.Web.Razor.xml
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\System.Web.Webpages.xml
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\System.Web.Webpages.Razor.xml
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\System.Web.Helpers.xml
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\bin\System.Web.Mvc.xml
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\obj\Debug\DatatableCRUD.dll
+C:\Users\Elvan\Desktop\DatatableCRUD\DatatableCRUD\obj\Debug\DatatableCRUD.pdb
+C:\Users\Elvan\Desktop\Yeni klasör (2)\DatatableCRUD\DatatableCRUD\obj\Debug\DatatableCRUD.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\Yeni klasör (2)\DatatableCRUD\DatatableCRUD\obj\Debug\DatatableCRUD.dll

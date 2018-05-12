@@ -1,0 +1,48 @@
+﻿body {
+}
+figure.card{
+    width:100px;
+    height:130px;
+    position:absolute;
+    -webkit-perspective:600;
+}
+figure.card img{
+    -webkit-border-radius:6px;
+}
+figure.card img.front{
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:4;
+    width:inherit;
+    height:inherit;
+    -webkit-box-shadow:0 1px 5px #CCC;
+    -webkit-transform:rotateY(0deg);
+    -webkit-transform-style:preserve-3d;
+    -webkit-backface-visibility:hidden;
+    -webkit-transition:all 0.4s ease-in-out;
+}
+figure.card:hover img.font{
+    z-index:4;
+    -webkit-transform:rotateY(180deg);
+    -webkit-box-shadow:0 15px 40px #EEE;
+    top:-9px;
+}
+figure.card img.back{
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:3;
+    width:inherit;
+    height:inherit;
+    -webkit-transform:rotateY(-180deg);
+    -webkit-transform-style:preserve-3d;
+    -webkit-backface-visibility:hidden;
+    -webkit-transition:all 0.4s ease-in-out;
+}
+figure.card:hover img.back{
+    z-index:5;
+    top:-9px;
+    -webkit-transform:rotateY(0deg);
+    -webkit-box-shadow:0 15px 50px rgba(0,0,0,0.2);
+}

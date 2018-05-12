@@ -1,0 +1,6 @@
+C:\Users\Elvan\Desktop\promise\promise\bin\promise.dll.config
+C:\Users\Elvan\Desktop\promise\promise\bin\promise.dll
+C:\Users\Elvan\Desktop\promise\promise\bin\promise.pdb
+C:\Users\Elvan\Desktop\promise\promise\obj\Debug\promise.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\promise\promise\obj\Debug\promise.dll
+C:\Users\Elvan\Desktop\promise\promise\obj\Debug\promise.pdb

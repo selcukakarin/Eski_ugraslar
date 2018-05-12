@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div data-bind="innerHTML:fatih, style:{color:color},onclick:function(){fatih('hi!')}"></div>
+    <div data-bind="innerText:fatih,style:{display:function(){return fatih=='hi!'?'none':'block'}()}"></div>
+</body>
+</html>
+<script>
+    //Nesnelerin event'a sahip olmasını sağlayan observerimiz.
+    var Observable = function () {
+        //private event nesnesi.
+        var events = {};
+        //Yeni bir event tetikleyicisi tanımlanıyor.
+        this.on = function (name, func) {
+            //Eğer hiç yoksa, bir adet boş tanımlanmalı.
+            if (!events[name]) events[name] = [];
+            //içeriye koyuyoruz.
+            events[name].push(func);
+        };
+        //Tetikleyici method, tetiklenen tüm eventleri çalıştırır.
+        this.trigger = function (name, data) {
+            //Bu isimde bir event var mıydı?
+            if (events[name] && events[name].length > 0) {
+                //Tümüne bak
+                for (var i = 0, l = events[name].length; i < l; i++) {
+                    //Gönderilen verilen pasla. content
+                    //ise nesnenin kendisi olmalı.
+                    events[name][i].call(this, data);
+                }
+            }
+        };
+        //Tüm eventları veya belirli eventları kapatmak için bir event çözücüsü.
+        this.off = function (name, func) {
+            var l = arguments.length;
+            //Eğer hiç argüman yoksa, tüm eventlar kapanır.
+            if (l == 0) {
+                //Event kapatması demek, tüm events literalinin boşaltılması demektir.
+                events = {};
+                //Eğer sadece bir isimdeki bir event off edilecekse,
+            } else if (l == 1 && events[name]) {
+                //0 events içerisinden silinir.
+                delete events[name];
+                //Eğer belli bir fonksiyon hedeflenmişse, o aranır ve silinir.
+            } else if (l == 2 && events[name] && events[name].length > 0) {
+                for (var i = 0, _l = events[name].length; i < _l; i++) {
+                    if (events[name][i] == func) {
+                        delete events[name][i];
+                        //fin.
+                        return;
+                    }
+                }
+            }
+        }
+    };
+
+    var MVVM = {
+        value: function (def) {
+            var self = this;
+            var _value;
+            var setter = function (value) {
+                _value = value || def;
+                self.trigger('change:model', {
+                    value: value
+                });
+            };
+            setter.toString = function () {
+                return _value || def;
+            };
+            return setter;
+        }
+    };
+
+    Observable.call(MVVM);
+    MVVM.on('change:model', function () {
+        Array.prototype.slice.call(document.querySelectorAll('[data-bind')).forEach(function (el) {
+            var boundData = eval('({' + el.dataset.bind + '})');
+            for (var prop in boundData) {
+                var value = boundData[prop];
+                el[prop] = typeof value == 'object' ?
+                    function (prop, val) {
+                        for (var v in val) {
+                            prop[v] = val[v];
+                        }
+                    }(el[prop], value) : value;
+                MVVM.trigger('change:view');
+            }
+        });
+    });
+    MVVM.apply = function () {
+        MVVM.trigger('change:model');
+    };
+
+    var color = MVVM.value('red');
+    var color = MVVM.value('fath');
+    MVVM.apply();
+
+</script>

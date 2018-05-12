@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Anasayfa";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Ana Sayfa</h1>
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+<div class="resim">
+    <div class="ecancaninstagramapi"><ul></ul></div>
+</div>
+
+<script>
+
+    $(function () {
+        $.ajax({
+            type: "GET",
+            dataType: "jsonp",
+            cache: false,
+            url: "https://api.instagram.com/v1/users/1418297331/media/recent/?access_token=1418297331.1677ed0.269e1123bef94b7d959ba8f20d86df81",
+            success: function (data) {
+                for (var i = 0; i < 6; i++) {
+                    $(".ecancaninstagramapi ul").append("<li><a target='_blank' href='" + data.data[i].link + "'><img src='" +
+                        data.data[i].images.low_resolution.url + "' /></a></li>");
+                }
+
+            }
+        });
+    });
+
+</script>

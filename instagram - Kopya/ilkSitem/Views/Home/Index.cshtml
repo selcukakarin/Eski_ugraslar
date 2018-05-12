@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Anasayfa";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1>Popular Pictures</h1>
+<ul class="popular"></ul>
+<h1>Latest</h1>
+<span class="name"></span>
+<span class=tagline></span>
+<ul class="latest"></ul>
+
+<script>
+        
+    
+        $.ajax({
+            type: "GET",
+            dataType: "jsonp",
+            url: "https://api.instagram.com/v1/users/1418297331/?access_token=1418297331.1677ed0.fd2c45039d71400bb085fabb5bb07111",
+            success: function(data) {
+                $('.name').text(data.data.username);
+                $('.tagline').text(data.data.bio);
+            }
+        });
+        
+    
+        
+    </script>
+

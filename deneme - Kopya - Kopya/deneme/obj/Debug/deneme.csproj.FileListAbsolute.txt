@@ -1,0 +1,42 @@
+C:\Users\Elvan\Desktop\deneme\deneme\bin\deneme.dll.config
+C:\Users\Elvan\Desktop\deneme\deneme\bin\deneme.dll
+C:\Users\Elvan\Desktop\deneme\deneme\bin\deneme.pdb
+C:\Users\Elvan\Desktop\deneme\deneme\obj\Debug\deneme.dll
+C:\Users\Elvan\Desktop\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\Elvan\Desktop\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme\deneme\bin\deneme.dll.config
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme\deneme\bin\deneme.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme\deneme\bin\deneme.pdb
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme\deneme\obj\Debug\deneme.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme - Kopya\deneme\bin\deneme.dll.config
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme - Kopya\deneme\bin\deneme.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme - Kopya\deneme\bin\deneme.pdb
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme - Kopya\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme - Kopya\deneme\obj\Debug\deneme.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme - Kopya\deneme\obj\Debug\deneme.pdb
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme - Kopya - Kopya\deneme\bin\deneme.dll.config
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme - Kopya - Kopya\deneme\bin\deneme.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme - Kopya - Kopya\deneme\bin\deneme.pdb
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme - Kopya - Kopya\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme - Kopya - Kopya\deneme\obj\Debug\deneme.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme - Kopya - Kopya\deneme\obj\Debug\deneme.pdb
+C:\Users\microman\Desktop\Yeni klasör (2)\deneme - Kopya - Kopya\deneme\bin\deneme.dll.config
+C:\Users\microman\Desktop\Yeni klasör (2)\deneme - Kopya - Kopya\deneme\bin\deneme.dll
+C:\Users\microman\Desktop\Yeni klasör (2)\deneme - Kopya - Kopya\deneme\bin\deneme.pdb
+C:\Users\microman\Desktop\Yeni klasör (2)\deneme - Kopya - Kopya\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\microman\Desktop\Yeni klasör (2)\deneme - Kopya - Kopya\deneme\obj\Debug\deneme.dll
+C:\Users\microman\Desktop\Yeni klasör (2)\deneme - Kopya - Kopya\deneme\obj\Debug\deneme.pdb
+H:\projeler\deneme - Kopya - Kopya\deneme\bin\deneme.dll.config
+H:\projeler\deneme - Kopya - Kopya\deneme\bin\deneme.dll
+H:\projeler\deneme - Kopya - Kopya\deneme\bin\deneme.pdb
+H:\projeler\deneme - Kopya - Kopya\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+H:\projeler\deneme - Kopya - Kopya\deneme\obj\Debug\deneme.dll
+H:\projeler\deneme - Kopya - Kopya\deneme\obj\Debug\deneme.pdb
+F:\projeler\deneme - Kopya - Kopya\deneme\bin\deneme.dll.config
+F:\projeler\deneme - Kopya - Kopya\deneme\bin\deneme.dll
+F:\projeler\deneme - Kopya - Kopya\deneme\bin\deneme.pdb
+F:\projeler\deneme - Kopya - Kopya\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+F:\projeler\deneme - Kopya - Kopya\deneme\obj\Debug\deneme.dll
+F:\projeler\deneme - Kopya - Kopya\deneme\obj\Debug\deneme.pdb

@@ -1,0 +1,40 @@
+﻿    @{
+        Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Selçuk</title>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/jquery.signalR-2.2.2.min.js"></script>
+    <script src="~/SignalR/Hubs"></script>
+    <script>
+        $(function () {
+            var chat = $.connection.chatHub;
+            var $username = $('#txtUserName');
+            var $message = $('#txtMessage');
+            var $messages = $('#messages');
+
+            $message.focus();
+            chat.client.sendMessage = function (name, message) {
+                $messages.append('<li><strong>' + name + '</strong>:' + message + '<li>');
+            };
+            $.connection.hub.start().done(function () {
+                $('#btnSendMessage').click(function () {
+                    chat.server.send($username.val(),$message.val());
+                    $message.val('').focus();
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <div>
+        <label for="txtUserName">Username: </label>@Html.TextBox("txtUserName")
+        <br/>
+        <label for="txtMessage">Message: </label>@Html.TextBox("txtMessage")<button id="btnSendMessage">Send</button>
+    </div>
+    <div id="messages"></div>
+</body>
+</html>

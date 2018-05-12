@@ -1,0 +1,6 @@
+C:\Users\Elvan\Desktop\MVVMframework\MVVMframework\bin\MVVMframework.dll.config
+C:\Users\Elvan\Desktop\MVVMframework\MVVMframework\bin\MVVMframework.dll
+C:\Users\Elvan\Desktop\MVVMframework\MVVMframework\bin\MVVMframework.pdb
+C:\Users\Elvan\Desktop\MVVMframework\MVVMframework\obj\Debug\MVVMframework.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\MVVMframework\MVVMframework\obj\Debug\MVVMframework.dll
+C:\Users\Elvan\Desktop\MVVMframework\MVVMframework\obj\Debug\MVVMframework.pdb

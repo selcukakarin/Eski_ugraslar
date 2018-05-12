@@ -1,0 +1,158 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masterSayfa.master.cs" Inherits="masterBlog.masterSayfa" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Content/css/style.css" rel="stylesheet" />
+    <script src="Script/jquery-3.1.1.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <nav>
+            <div id="nav">
+                <div id="nav-container">
+                    <div id="nav-bar-container">
+                        <div id="nav-bar"></div>
+                    </div>
+
+                    <a href="anasayfa.aspx">
+                        <div class="nav nav-first-child homepage">Anasayfa</div>
+                    </a>
+                    <a href="hakkımda.aspx">
+                        <div class="nav aboutus">Hakkımızda</div>
+                    </a>
+                    <a href="personal.aspx">
+                        <div class="nav hobby">Personel</div>
+                    </a>
+                    <a href="blog1.aspx">
+                        <div class="nav blog">Ürünlerimiz</div>
+                    </a>
+                    <a href="Projelerim.aspx">
+                        <div class="nav project">Projelerimiz</div>
+                    </a>
+                    <a href="iletisim.aspx">
+                        <div class="nav contact">İletişim</div>
+                    </a>
+
+
+                </div>
+                <div class="kullanıcı">
+                    <asp:TextBox ID="TextBox4" placeholder="Kullanıcı adı" CssClass="kullanıcı-textbox" runat="server" Font-Size="12px" ForeColor="White"></asp:TextBox>
+                    <asp:TextBox ID="TextBox5" placeholder="Parola" CssClass="kullanıcı-textbox" runat="server" Font-Size="12px" ForeColor="White"></asp:TextBox>
+                    <asp:ImageButton ID="ImageButton1" runat="server" CssClass="kullanıcı-button" ImageUrl="~/Content/img/giris.png" OnClick="ImageButton1_Click" />
+                </div>
+                <div class="kaydol">
+                    <a href="kullaniciKaydol.aspx"><div class="kaydol-yazi">Kaydol</div>
+
+                    <asp:Label ID="Label1" runat="server" ForeColor="White">
+                    </asp:Label>
+                    </a>
+                    
+                </div>
+            </div>
+        </nav>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $(".aboutus").mouseover(function () {
+                    $("#nav-bar").css({ 'left': '101px' });
+                });
+                $(".aboutus").mouseleave(function () {
+                    $("#nav-bar").css({ 'left': '0' });
+                });
+                $(".hobby").mouseover(function () {
+                    $("#nav-bar").css({ 'left': '202px' });
+                });
+                $(".hobby").mouseleave(function () {
+                    $("#nav-bar").css({ 'left': '0' });
+                });
+                $(".blog").mouseover(function () {
+                    $("#nav-bar").css({ 'left': '303px' });
+                });
+                $(".blog").mouseleave(function () {
+                    $("#nav-bar").css({ 'left': '0' });
+                });
+                $(".project").mouseover(function () {
+                    $("#nav-bar").css({ 'left': '404px' });
+                });
+                $(".project").mouseleave(function () {
+                    $("#nav-bar").css({ 'left': '0' });
+                });
+                $(".contact").mouseover(function () {
+                    $("#nav-bar").css({ 'left': '505px' });
+                });
+                $(".contact").mouseleave(function () {
+                    $("#nav-bar").css({ 'left': '0' });
+                });
+            });
+        </script>
+
+        <header>
+            
+
+        </header>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <footer>
+                <div class="yesil">
+                    <div class="yesil-container">
+                        <div class="ok">
+                            <div class="okresim">
+                                <img src="Content/img/blog_29.gif" />
+                            </div>
+                        </div>
+                        <div class="baslik">
+                            <h4>İLETİŞİM</h4>
+                        </div>
+                        <div class="mesaj-bolum">
+                            <asp:TextBox ID="TextBox1" placeholder="İSİM :" CssClass="mesaj-text-first" runat="server" BackColor="#9AB087" Height="24px" Width="183px" Font-Size="12px" ForeColor="White"></asp:TextBox>
+                            <asp:TextBox ID="TextBox6" placeholder="MESAJ :" CssClass="mesaj-kutu" runat="server" BackColor="#9AB087" Font-Size="12px" ForeColor="White" TextMode="MultiLine"></asp:TextBox>
+                            <asp:TextBox ID="TextBox2" placeholder="E-MAİL :" CssClass="mesaj-text" runat="server" BackColor="#9AB087" Height="24px"  Width="183px" Font-Size="12px"></asp:TextBox>
+                            <asp:TextBox ID="TextBox3" placeholder="TELEFON :" CssClass="mesaj-text" runat="server" BackColor="#9AB087" Height="24px"  Width="183px" Font-Size="12px"></asp:TextBox>
+                        </div>
+                        <div class="yesilbuttondiv">
+
+                            <asp:Button ID="Button1" CssClass="yesilbutton" runat="server" Text="Gönder" BackColor="#9AB087" OnClick="Button1_Click"  />
+
+                        </div>
+
+                    </div>
+                </div>
+                <div class="mavi">
+                    <div class="mavi-container">
+
+                        <div class="sosyal">
+                            <div class="face">
+                                <a href="https://www.facebook.com">
+                                    <img src="Content/img/face.png" /> </a>
+                            </div>
+                            <div class="twitter">
+                                <a href="https://twitter.com">
+                                    <img src="Content/img/twit.png" /></a>
+                            </div>
+                            <div class="google">
+                                <a href="https://plus.google.com">
+                                    <img src="Content/img/google.png" /> </a>
+                            </div>
+                            <div class="instagram">
+                                <a href="https://www.instagram.com/">
+                                    <img src="Content/img/insta.png" /></a>
+                            </div>
+                        </div>
+                        <div class="mavi-yazi-dis">
+                            <div class="mavi-yazi">| Mert Şimşek Resul Yetkiner Tüm Hakları Saklıdır |</div>
+                        </div>
+                    </div>
+                </div>
+        </footer>
+    </form>
+</body>
+</html>

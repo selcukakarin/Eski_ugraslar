@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OgrenciBilgiModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ders">
+    <Key>
+      <PropertyRef Name="ders_ID" />
+    </Key>
+    <Property Name="ders_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ders_adi" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ogrenci">
+    <Key>
+      <PropertyRef Name="ogrenci_ID" />
+    </Key>
+    <Property Name="ogrenci_ID" Type="int" Nullable="false" />
+    <Property Name="ad_soyad" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ders_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_ogrenci_ders">
+    <End Role="ders" Type="Self.ders" Multiplicity="1" />
+    <End Role="ogrenci" Type="Self.ogrenci" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ders">
+        <PropertyRef Name="ders_ID" />
+      </Principal>
+      <Dependent Role="ogrenci">
+        <PropertyRef Name="ders_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="OgrenciBilgiModelStoreContainer">
+    <EntitySet Name="ders" EntityType="Self.ders" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ogrenci" EntityType="Self.ogrenci" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_ogrenci_ders" Association="Self.FK_ogrenci_ders">
+      <End Role="ders" EntitySet="ders" />
+      <End Role="ogrenci" EntitySet="ogrenci" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

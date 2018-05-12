@@ -1,0 +1,6 @@
+C:\Users\Elvan\Desktop\moduler\moduler\bin\moduler.dll.config
+C:\Users\Elvan\Desktop\moduler\moduler\bin\moduler.dll
+C:\Users\Elvan\Desktop\moduler\moduler\bin\moduler.pdb
+C:\Users\Elvan\Desktop\moduler\moduler\obj\Debug\moduler.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\moduler\moduler\obj\Debug\moduler.dll
+C:\Users\Elvan\Desktop\moduler\moduler\obj\Debug\moduler.pdb

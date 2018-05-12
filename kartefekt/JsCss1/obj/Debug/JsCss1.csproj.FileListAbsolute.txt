@@ -1,0 +1,6 @@
+C:\Users\Elvan\Desktop\JsCss1\JsCss1\bin\JsCss1.dll.config
+C:\Users\Elvan\Desktop\JsCss1\JsCss1\bin\JsCss1.dll
+C:\Users\Elvan\Desktop\JsCss1\JsCss1\bin\JsCss1.pdb
+C:\Users\Elvan\Desktop\JsCss1\JsCss1\obj\Debug\JsCss1.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\JsCss1\JsCss1\obj\Debug\JsCss1.dll
+C:\Users\Elvan\Desktop\JsCss1\JsCss1\obj\Debug\JsCss1.pdb

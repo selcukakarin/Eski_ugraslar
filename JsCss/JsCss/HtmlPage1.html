@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        div{
+            width:60px;height:60px;margin:5px;float:left;
+        }
+    </style>
+    <script src="jquery-3.2.1 .js"></script>
+</head>
+<body>
+    <span id="result">&nbsp;</span>
+    <div style="background-color:lightblue;"></div>
+    <div style="background-color:rgb(15,99,30);"></div>
+    <div style="background-color:#123456;"></div>
+    <div style="background-color:#f11;"></div>
+    <script>
+        $("div").click(function () {
+            var color = $(this).css("background-color");
+            $("#result").html("That div is <span style='color:"+ color +";'>" + color + "</span>.");
+        });
+    </script>
+
+</body>
+</html>

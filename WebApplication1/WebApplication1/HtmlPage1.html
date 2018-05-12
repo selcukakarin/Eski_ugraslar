@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="jquery-3.2.1 (2).js"></script>
+    <style>
+        button{
+            width:150px;
+            height:200px;
+            border-radius:10px;
+            background-color:lightblue;
+            font-size:100px;
+            color:#fff;
+        }
+    </style>
+</head>
+<body>
+    <button>A</button>
+    <button>B</button>
+    <button>C</button>
+    <script>
+        var button = document.getElementsByTagName('button');
+        var random = Math.ceil(Math.random() * 3);
+        button[random - 1].setAttribute('correct', 'true');
+        for (var i = 0; i < button.length; i++) {
+            button[i].addEventListener('mouseover', function () {
+                var correct = this.getAttribute('correct');
+                if (correct == 'true') {
+                    this.style.backgroundColor = 'lightgreen';
+                } else {
+                    this.style.backgroundColor = 'pink';
+                }
+            }, false);
+            button[i].addEventListener('mouseout', function () {
+                this.style.backgroundColor = 'lightblue';
+            }, false);
+        }
+    </script>
+</body>
+</html>

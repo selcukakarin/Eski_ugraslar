@@ -1,0 +1,331 @@
+﻿.kirmizi {
+    background-color: #c7583c;
+    width: 100%;
+    
+}
+
+.kirmizi-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:0px;
+    height: 500px;
+    position: relative;
+}
+
+.kirmizi .kirmizi-container .resim {
+    width: 171px;
+    height: 184px;
+    float: left;
+    position: relative;
+        background-image: url('../img/sj.jpg');
+    background-repeat: no-repeat;
+    margin-left: 384px;
+}
+
+.kirmizi .kirmizi-container .kirmiziyazi {
+    width:940px;
+    height: 171px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+}
+
+.kirmizi .kirmizi-container p {
+    float: left;
+    position: relative;
+    font-size: 14px;
+    margin-left: 50px;
+    font-family: 'Trebuchet MS';
+}
+
+.kirmizi .kirmizi-container h1 {
+    font-size: 22px;
+    margin-left: 50px;
+    font-family: 'Trajan Pro';
+}
+.kirmizi .kirmizi-container .resim2 {
+    width: 400px;
+    height: 267px;
+    position: relative;
+    float: left;
+
+    background-repeat: no-repeat;
+}
+.kirmizi-container2 {
+    width: 940px;
+    margin:auto;
+    height: 300px;
+    position: relative;
+    color:black;
+}
+.kirmiziyazi2{
+    width: 540px;
+    height: 267px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+}
+.kirmizi .kirmizi-container2 p {
+    float: left;
+    width: 520px;
+    position: relative;
+    font-size: 14px;
+    margin-left: 20px;
+    font-family: 'Trebuchet MS';
+}
+.kirmizi .kirmizi-container2 h1 {
+    font-size: 22px;
+    width: 520px;
+    margin-left: 20px;
+    font-family: 'Trajan Pro';
+}
+
+
+.sari-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 500px;
+    position: relative;
+}
+
+.sari .sari-container .resim {
+    width: 171px;
+    height: 184px;
+    float: left;
+    position: relative;
+    background-image: url('../img/rb.jpg');
+    background-repeat: no-repeat;
+    margin-left: 384px;
+}
+
+.sari .sari-container .sariyazi {
+    width: 940px;
+    height: 180px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+}
+
+.sari .sari-container p {
+    float: left;
+    position: relative;
+    font-size: 14px;
+    margin-left: 50px;
+    font-family: 'Trebuchet MS';
+}
+.sari .sari-container h1 {
+    font-size: 22px;
+    width: 520px;
+    margin-left: 20px;
+    font-family: 'Trajan Pro';
+}
+
+
+.sari .sari-container2 .resim2 {
+    width: 400px;
+    height: 267px;
+    position: relative;
+    float: left;
+
+    background-repeat: no-repeat;
+}
+.sari-container2 {
+    width: 940px;
+    margin:auto;
+    height: 300px;
+    position: relative;
+    color:black;
+}
+.sariyazi2{
+    width: 540px;
+    height: 267px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+    color:#fff;
+}
+.sari .kirmizi-container2 p {
+    float: left;
+    width: 520px;
+    position: relative;
+    font-size: 14px;
+    margin-left: 20px;
+    font-family: 'Trebuchet MS';
+}
+.sari .sari-container2 h1 {
+    font-size: 22px;
+    width: 520px;
+    margin-left: 20px;
+    font-family: 'Trajan Pro';
+}
+
+.beyaz-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    position: relative;
+    color:black;
+}
+
+.beyaz .beyaz-container .resim {
+    width: 171px;
+    height: 184px;
+    margin-left: 384px;
+    position: relative;
+    background-image: url('../img/ja.jpg');
+    background-repeat: no-repeat;
+}
+
+.beyaz .beyaz-container .beyazyazi {
+    width: 940px;
+    height: 160px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+    top: 0px;
+    left: 0px;
+}
+
+.beyaz .beyaz-container p {
+    float: left;
+    position: relative;
+    font-size: 14px;
+    margin-left: 50px;
+    font-family: 'Trebuchet MS';
+}
+.beyaz .beyaz-container h1 {
+    font-size: 22px;
+    width: 520px;
+    margin-left: 20px;
+    font-family: 'Trajan Pro';
+    color:#000;
+}
+
+.beyaz-container2 {
+    width: 940px;
+    margin:auto;
+    height: 300px;
+    position: relative;
+    color:#000;
+}
+.beyazyazi2{
+    width: 540px;
+    height: 267px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+}
+.beyaz .beyaz-container2 p {
+    float: left;
+    width: 520px;
+    position: relative;
+    font-size: 14px;
+    margin-left: 20px;
+    font-family: 'Trebuchet MS';
+    color:#000;
+}
+.beyaz .beyaz-container2 h1 {
+    font-size: 22px;
+    width: 520px;
+    margin-left: 20px;
+    font-family: 'Trajan Pro';
+    color:#000;
+}
+.beyaz .beyaz-container2 .resim2 {
+    width: 400px;
+    height: 267px;
+    position: relative;
+    float: left;
+    background-image: url('../img/gezi.jpg');
+    background-repeat: no-repeat;
+}
+
+.acikmavi{
+    background-color:#498cb6;
+    width:100%;
+}
+.acikmavi-container {
+    width: 940px;
+    margin:auto;
+    height:500px;
+    position: relative;
+    color:black;
+}
+
+.acikmavi .acikmavi-container .resim {
+    width:171px;
+    height: 184px;
+    position: relative;
+    background-image: url('../img/bc.jpg');
+    background-repeat: no-repeat;
+    margin-left:384px;
+    margin-top:20px;
+}
+
+.acikmavi .acikmavi-container .acikmaviyazi {
+    width: 940px;
+    height: 180px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+    top: 0px;
+    left: 0px;
+    color:#fff;
+}
+
+.acikmavi .acikmavi-container p {
+    float: left;
+    position: relative;
+    font-size: 14px;
+    margin-left: 20px;
+    font-family: 'Trebuchet MS';
+    color:#fff;
+}
+.acikmavi .mavi-container h1 {
+    font-size: 22px;
+    margin-left: 20px;
+    font-family: 'Trajan Pro';
+    color:#fff;
+}
+.acikmavi .acikmavi-container .resim2 {
+    width: 400px;
+    height: 267px;
+    position: relative;
+    float:left;
+    background-image: url('../img/balik-tutmak.jpg');
+    background-repeat: no-repeat;
+}
+.acikmavi-container2 {
+    width: 940px;
+    margin:auto;
+    height: 300px;
+    position: relative;
+    color:#fff;
+}
+.acikmaviyazi2{
+    width: 540px;
+    height: 267px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+}
+.acikmavi .acikmavi-container2 p {
+    float: left;
+    width: 520px;
+    position: relative;
+    font-size: 14px;
+    margin-left: 20px;
+    font-family: 'Trebuchet MS';
+    color:#fff;
+}
+.acikmavi .acikmavi-container2 h1 {
+    font-size: 22px;
+    width: 520px;
+    margin-left: 20px;
+    font-family: 'Trajan Pro';
+    color:#fff;
+}

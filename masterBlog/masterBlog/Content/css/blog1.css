@@ -1,0 +1,143 @@
+﻿.kirmizi {
+    background-color: #c7583c;
+    width: 100%;
+    
+
+    
+}
+
+.kirmizi-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    height: 500px;
+    position: relative;
+
+}
+.ozgur{
+    width:940px;
+    height:300px;
+    position:relative;
+    float:left;
+}
+.ozgurresim {
+    width: 400px;
+    height: 300px;
+    margin:auto;
+    position:relative;
+}
+.kirmizi .kirmizi-container .kirmiziyazi {
+    width: 940px;
+    height: 120px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+    overflow: scroll;
+}
+
+
+.kirmizi .kirmizi-container p {
+    float: left;
+    position: relative;
+    font-size: 14px;
+    margin-left: 50px;
+    font-family: 'Trebuchet MS';
+}
+
+.kirmizi .kirmizi-container h1 {
+    font-size: 22px;
+    margin-left: 50px;
+    font-family: 'Trajan Pro';
+}
+
+.beyaz-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 220px;
+    position: relative;
+}
+.sari-container {
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+
+    height: 220px;
+    position: relative;
+}
+
+.sari .sari-container .resim {
+    width: 191px;
+    height: 171px;
+    float: left;
+    position: relative;
+    background-image: url('../img/resim.png');
+    background-repeat: no-repeat;
+}
+
+.sari .sari-container .sariyazi {
+    width: 749px;
+    height: 120px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+}
+
+.sari .sari-container p {
+    float: left;
+    position: relative;
+    font-size: 14px;
+    margin-left: 50px;
+    font-family: 'Trebuchet MS';
+}
+
+
+.beyaz .beyaz-container .resim {
+    width: 191px;
+    height: 171px;
+    float: left;
+    position: relative;
+    background-image: url('../img/resim.png');
+    background-repeat: no-repeat;
+}
+
+.beyaz .beyaz-container .beyazyazi {
+    width: 749px;
+    height: 120px;
+    float: left;
+    position: relative;
+    font-size: 14px;
+    top: 0px;
+    left: 0px;
+}
+
+.beyaz .beyaz-container p {
+    float: left;
+    position: relative;
+    font-size: 14px;
+    margin-left: 50px;
+    font-family: 'Trebuchet MS';
+}
+.sayfa{
+    width:40px;
+    height:20px;
+    position:relative;
+    margin-top:160px;
+    margin-left:450px;
+    
+}
+.sayfasay{
+    width:20px;
+    height:20px;
+    font-family:'Trajan Pro';
+    font-size:20px;
+    color:black;
+    float:left;
+    position:relative;
+    font-weight:bold;
+}
+.pager{
+    margin:auto;
+    width:100px;
+}
