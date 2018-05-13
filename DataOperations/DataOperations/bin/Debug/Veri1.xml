@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<CustomerInformation>
+  <CustomerDetail>
+    <ID>2</ID>
+    <FirstName>ahmet</FirstName>
+    <LastName>ayan</LastName>
+  </CustomerDetail>
+  <CustomerDetail>
+    <ID>3</ID>
+    <FirstName>selçuk</FirstName>
+    <LastName>akarın</LastName>
+  </CustomerDetail>
+  <CustomerDetail>
+    <ID>4</ID>
+    <FirstName>alper</FirstName>
+    <LastName>gül</LastName>
+  </CustomerDetail>
+</CustomerInformation>
