@@ -8,3 +8,13 @@ C:\Users\microman\Source\Repos\SummationIntegration\SummationIntegration\bin\Deb
 C:\Users\microman\Source\Repos\SummationIntegration\SummationIntegration\bin\Debug\SummationIntegration.pdb
 C:\Users\microman\Source\Repos\SummationIntegration\SummationIntegration\obj\Debug\SummationIntegration.exe
 C:\Users\microman\Source\Repos\SummationIntegration\SummationIntegration\obj\Debug\SummationIntegration.pdb
+C:\Users\microman\Source\Repos\Eski_ugraslar\SummationIntegration\SummationIntegration\bin\Debug\SummationIntegration.exe.config
+C:\Users\microman\Source\Repos\Eski_ugraslar\SummationIntegration\SummationIntegration\bin\Debug\SummationIntegration.exe
+C:\Users\microman\Source\Repos\Eski_ugraslar\SummationIntegration\SummationIntegration\bin\Debug\SummationIntegration.pdb
+C:\Users\microman\Source\Repos\Eski_ugraslar\SummationIntegration\SummationIntegration\obj\Debug\SummationIntegration.csprojAssemblyReference.cache
+C:\Users\microman\Source\Repos\Eski_ugraslar\SummationIntegration\SummationIntegration\obj\Debug\SummationIntegration.Form1.resources
+C:\Users\microman\Source\Repos\Eski_ugraslar\SummationIntegration\SummationIntegration\obj\Debug\SummationIntegration.Properties.Resources.resources
+C:\Users\microman\Source\Repos\Eski_ugraslar\SummationIntegration\SummationIntegration\obj\Debug\SummationIntegration.csproj.GenerateResource.cache
+C:\Users\microman\Source\Repos\Eski_ugraslar\SummationIntegration\SummationIntegration\obj\Debug\SummationIntegration.csproj.CoreCompileInputs.cache
+C:\Users\microman\Source\Repos\Eski_ugraslar\SummationIntegration\SummationIntegration\obj\Debug\SummationIntegration.exe
+C:\Users\microman\Source\Repos\Eski_ugraslar\SummationIntegration\SummationIntegration\obj\Debug\SummationIntegration.pdb
