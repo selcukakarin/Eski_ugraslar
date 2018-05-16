@@ -1,0 +1,10 @@
+C:\Users\microman\Source\Repos\ExamApp\ExamApp\bin\Debug\ExamApp.exe.config
+C:\Users\microman\Source\Repos\ExamApp\ExamApp\bin\Debug\ExamApp.exe
+C:\Users\microman\Source\Repos\ExamApp\ExamApp\bin\Debug\ExamApp.pdb
+C:\Users\microman\Source\Repos\ExamApp\ExamApp\obj\Debug\ExamApp.csprojAssemblyReference.cache
+C:\Users\microman\Source\Repos\ExamApp\ExamApp\obj\Debug\ExamApp.Form1.resources
+C:\Users\microman\Source\Repos\ExamApp\ExamApp\obj\Debug\ExamApp.Properties.Resources.resources
+C:\Users\microman\Source\Repos\ExamApp\ExamApp\obj\Debug\ExamApp.csproj.GenerateResource.cache
+C:\Users\microman\Source\Repos\ExamApp\ExamApp\obj\Debug\ExamApp.csproj.CoreCompileInputs.cache
+C:\Users\microman\Source\Repos\ExamApp\ExamApp\obj\Debug\ExamApp.exe
+C:\Users\microman\Source\Repos\ExamApp\ExamApp\obj\Debug\ExamApp.pdb

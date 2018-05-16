@@ -49,6 +49,11 @@
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.IntegrationResult = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.SummationResult = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MultiplicationResult = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -233,11 +238,49 @@
             this.label14.TabIndex = 22;
             this.label14.Text = "For integral";
             // 
+            // dataGridView1
+            // 
+            this.dataGridView1.AllowUserToAddRows = false;
+            this.dataGridView1.AllowUserToDeleteRows = false;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.IntegrationResult,
+            this.SummationResult,
+            this.MultiplicationResult});
+            this.dataGridView1.Location = new System.Drawing.Point(179, 162);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.ReadOnly = true;
+            this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dataGridView1.Size = new System.Drawing.Size(625, 241);
+            this.dataGridView1.TabIndex = 23;
+            // 
+            // IntegrationResult
+            // 
+            this.IntegrationResult.HeaderText = "IntegrationResult";
+            this.IntegrationResult.Name = "IntegrationResult";
+            this.IntegrationResult.ReadOnly = true;
+            this.IntegrationResult.Width = 200;
+            // 
+            // SummationResult
+            // 
+            this.SummationResult.HeaderText = "SummationResult";
+            this.SummationResult.Name = "SummationResult";
+            this.SummationResult.ReadOnly = true;
+            this.SummationResult.Width = 200;
+            // 
+            // MultiplicationResult
+            // 
+            this.MultiplicationResult.HeaderText = "MultiplicationResult";
+            this.MultiplicationResult.Name = "MultiplicationResult";
+            this.MultiplicationResult.ReadOnly = true;
+            this.MultiplicationResult.Width = 180;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(860, 450);
+            this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.label12);
@@ -261,6 +304,8 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -289,6 +334,10 @@
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn IntegrationResult;
+        private System.Windows.Forms.DataGridViewTextBoxColumn SummationResult;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MultiplicationResult;
     }
 }
 
