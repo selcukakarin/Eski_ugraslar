@@ -17,3 +17,14 @@ C:\Users\microman\Desktop\DataOperations\DataOperations\obj\Debug\DataOperations
 C:\Users\microman\Desktop\DataOperations\DataOperations\obj\Debug\DataOperations.csproj.CoreCompileInputs.cache
 C:\Users\microman\Desktop\DataOperations\DataOperations\obj\Debug\DataOperations.exe
 C:\Users\microman\Desktop\DataOperations\DataOperations\obj\Debug\DataOperations.pdb
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\DataOperations\DataOperations\bin\Debug\DataOperations.exe.config
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\DataOperations\DataOperations\bin\Debug\DataOperations.exe
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\DataOperations\DataOperations\bin\Debug\DataOperations.pdb
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\DataOperations\DataOperations\obj\Debug\DataOperations.csprojAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\DataOperations\DataOperations\obj\Debug\DataOperations.Form1.resources
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\DataOperations\DataOperations\obj\Debug\DataOperations.Properties.Resources.resources
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\DataOperations\DataOperations\obj\Debug\DataOperations.csproj.GenerateResource.cache
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\DataOperations\DataOperations\obj\Debug\DataOperations.csproj.CoreCompileInputs.cache
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\DataOperations\DataOperations\obj\Debug\DataOperations.exe
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\DataOperations\DataOperations\obj\Debug\DataOperations.pdb
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\DataOperations\DataOperations\obj\Debug\DataOperations.Form2.resources

@@ -19,47 +19,26 @@ namespace DataOperations
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            string text = textBox1.Text;
-            writeToFile(text);
-        }
-
-        private static void writeToFile(string x)
-        {
-            string dosya_yolu = "textfile.txt";
-            FileStream fs = new FileStream(dosya_yolu, FileMode.OpenOrCreate, FileAccess.Write);
-            StreamWriter sw = new StreamWriter(fs);
-            sw.WriteLine(x);
-            sw.Flush();
-            sw.Close();
-            fs.Close();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            StreamReader reader = new StreamReader("textfile.txt");
-            textBox1.Text = reader.ReadToEnd();
-            reader.Close();
-        }
-
         private void buttonAdd_Click(object sender, EventArgs e)
         {
             int n = dataGridView1.Rows.Add();
-            dataGridView1.Rows[n].Cells[0].Value = textBoxID.Text;
-            dataGridView1.Rows[n].Cells[1].Value = textBoxFirstName.Text;
-            dataGridView1.Rows[n].Cells[2].Value = textBoxLastName.Text;
-            textBoxID.Clear();
-            textBoxFirstName.Clear();
-            textBoxLastName.Clear();
+            dataGridView1.Rows[n].Cells[0].Value = txtID.Text;
+            dataGridView1.Rows[n].Cells[1].Value = txtLicensePlate.Text;
+            dataGridView1.Rows[n].Cells[2].Value = txtFirstName.Text;
+            dataGridView1.Rows[n].Cells[3].Value = txtLastName.Text;
+            txtID.Clear();
+            txtFirstName.Clear();
+            txtLastName.Clear();
+            txtLicensePlate.Clear();
 
         }
 
         private void buttonSaveAs_Click(object sender, EventArgs e)
         {
-            DataSet ds = new DataSet("CustomerInformation");
-            DataTable dt = new DataTable("CustomerDetail");
+            DataSet ds = new DataSet("RentACar");
+            DataTable dt = new DataTable("RentDetail");
             dt.Columns.Add("ID");
+            dt.Columns.Add("LicensePlate");
             dt.Columns.Add("FirstName");
             dt.Columns.Add("LastName");
             ds.Tables.Add(dt);
@@ -67,35 +46,37 @@ namespace DataOperations
 
             foreach (DataGridViewRow r in dataGridView1.Rows)
             {
-                DataRow row = ds.Tables["CustomerDetail"].NewRow();
+                DataRow row = ds.Tables["RentDetail"].NewRow();
                 row["ID"] = r.Cells[0].Value.ToString();
-                row["FirstName"] = r.Cells[1].Value.ToString();
-                row["LastName"] = r.Cells[2].Value.ToString();
-                ds.Tables["CustomerDetail"].Rows.Add(row);
+                row["LicensePlate"] = r.Cells[1].Value.ToString();
+                row["FirstName"] = r.Cells[2].Value.ToString();
+                row["LastName"] = r.Cells[3].Value.ToString();
+                ds.Tables["RentDetail"].Rows.Add(row);
             }
-            ds.WriteXml("Veri1.xml");
+            ds.WriteXml("Veri.xml");
         }
 
         private void buttonImport_Click(object sender, EventArgs e)
         {
             this.dataGridView1.Rows.Clear();
-            string DosyaYolu = "Veri1" + ".xml";
-            if (System.IO.File.Exists(DosyaYolu))
+            string FilePath = "Veri" + ".xml";
+            if (System.IO.File.Exists(FilePath))
             {
                 DataSet ds = new DataSet();
-                ds.ReadXml("Veri1.xml");
+                ds.ReadXml("Veri.xml");
 
-                foreach (DataRow item in ds.Tables["CustomerDetail"].Rows)
+                foreach (DataRow item in ds.Tables["RentDetail"].Rows)
                 {
                     int n = dataGridView1.Rows.Add();
                     dataGridView1.Rows[n].Cells[0].Value = item[0].ToString();
                     dataGridView1.Rows[n].Cells[1].Value = item[1].ToString();
                     dataGridView1.Rows[n].Cells[2].Value = item[2].ToString();
+                    dataGridView1.Rows[n].Cells[3].Value = item[3].ToString();
                 }
             }
             else
             {
-                MessageBox.Show("Veri1.XML Bulunamadı.XML Dosyasını Oluşturun.");
+                MessageBox.Show("Veri.XML Not found.Create the xml file.");
                 
             }
         }
@@ -105,17 +86,19 @@ namespace DataOperations
 
         private void dataGridView1_MouseClick(object sender, MouseEventArgs e)
         {
-            textBoxID.Text = dataGridView1.SelectedRows[0].Cells[0].Value.ToString();
-            textBoxFirstName.Text = dataGridView1.SelectedRows[0].Cells[1].Value.ToString();
-            textBoxLastName.Text = dataGridView1.SelectedRows[0].Cells[2].Value.ToString();
+            txtID.Text = dataGridView1.SelectedRows[0].Cells[0].Value.ToString();
+            txtLicensePlate.Text = dataGridView1.SelectedRows[0].Cells[1].Value.ToString();
+            txtFirstName.Text = dataGridView1.SelectedRows[0].Cells[2].Value.ToString();
+            txtLastName.Text = dataGridView1.SelectedRows[0].Cells[3].Value.ToString();
 
         }
 
         private void buttonEdit_Click(object sender, EventArgs e)
         {
-            dataGridView1.SelectedRows[0].Cells[0].Value = textBoxID.Text;
-            dataGridView1.SelectedRows[0].Cells[1].Value = textBoxFirstName.Text;
-            dataGridView1.SelectedRows[0].Cells[2].Value = textBoxLastName.Text;
+            dataGridView1.SelectedRows[0].Cells[0].Value = txtID.Text;
+            dataGridView1.SelectedRows[0].Cells[1].Value = txtLicensePlate.Text;
+            dataGridView1.SelectedRows[0].Cells[2].Value = txtFirstName.Text;
+            dataGridView1.SelectedRows[0].Cells[3].Value = txtLastName.Text;
         }
 
         private void buttonDelete_Click(object sender, EventArgs e)
@@ -123,5 +106,10 @@ namespace DataOperations
             dataGridView1.Rows.RemoveAt(dataGridView1.SelectedRows[0].Index);
         }
 
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();
+            form2.Show();
+        }
     }
 }
