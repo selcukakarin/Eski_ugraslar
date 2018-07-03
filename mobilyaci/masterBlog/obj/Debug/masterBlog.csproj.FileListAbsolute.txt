@@ -28,3 +28,16 @@ C:\Users\microman\Desktop\projeler\mobilyaci\masterBlog\bin\EntityFramework.SqlS
 C:\Users\microman\Desktop\projeler\mobilyaci\masterBlog\obj\Debug\masterBlog.csprojResolveAssemblyReference.cache
 C:\Users\microman\Desktop\projeler\mobilyaci\masterBlog\obj\Debug\masterBlog.dll
 C:\Users\microman\Desktop\projeler\mobilyaci\masterBlog\obj\Debug\masterBlog.pdb
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\mobilyaci\masterBlog\bin\masterBlog.dll.config
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\mobilyaci\masterBlog\bin\masterBlog.dll
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\mobilyaci\masterBlog\bin\masterBlog.pdb
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\mobilyaci\masterBlog\bin\EntityFramework.dll
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\mobilyaci\masterBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\mobilyaci\masterBlog\bin\CKEditor.NET.pdb
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\mobilyaci\masterBlog\bin\EntityFramework.xml
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\mobilyaci\masterBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\mobilyaci\masterBlog\obj\Debug\masterBlog.csprojAssemblyReference.cache
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\mobilyaci\masterBlog\obj\Debug\masterBlog.csproj.CoreCompileInputs.cache
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\mobilyaci\masterBlog\obj\Debug\masterBlog.csproj.CopyComplete
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\mobilyaci\masterBlog\obj\Debug\masterBlog.dll
+C:\Users\microman\Documents\GitHub\Eski_ugraslar\mobilyaci\masterBlog\obj\Debug\masterBlog.pdb
