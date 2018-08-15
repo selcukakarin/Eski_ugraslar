@@ -1,6 +1,0 @@
-C:\Users\Elvan\Desktop\shagaron\shagaron\bin\shagaron.dll.config
-C:\Users\Elvan\Desktop\shagaron\shagaron\bin\shagaron.dll
-C:\Users\Elvan\Desktop\shagaron\shagaron\bin\shagaron.pdb
-C:\Users\Elvan\Desktop\shagaron\shagaron\obj\Debug\shagaron.csprojResolveAssemblyReference.cache
-C:\Users\Elvan\Desktop\shagaron\shagaron\obj\Debug\shagaron.dll
-C:\Users\Elvan\Desktop\shagaron\shagaron\obj\Debug\shagaron.pdb

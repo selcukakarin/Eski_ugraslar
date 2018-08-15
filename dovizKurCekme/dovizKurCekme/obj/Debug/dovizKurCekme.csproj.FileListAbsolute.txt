@@ -1,9 +1,0 @@
-C:\Users\Elvan\Desktop\dovizKurCekme\dovizKurCekme\bin\Debug\dovizKurCekme.exe.config
-C:\Users\Elvan\Desktop\dovizKurCekme\dovizKurCekme\obj\Debug\dovizKurCekme.csprojResolveAssemblyReference.cache
-C:\Users\Elvan\Desktop\dovizKurCekme\dovizKurCekme\obj\Debug\dovizKurCekme.Form1.resources
-C:\Users\Elvan\Desktop\dovizKurCekme\dovizKurCekme\obj\Debug\dovizKurCekme.Properties.Resources.resources
-C:\Users\Elvan\Desktop\dovizKurCekme\dovizKurCekme\obj\Debug\dovizKurCekme.csproj.GenerateResource.Cache
-C:\Users\Elvan\Desktop\dovizKurCekme\dovizKurCekme\bin\Debug\dovizKurCekme.exe
-C:\Users\Elvan\Desktop\dovizKurCekme\dovizKurCekme\bin\Debug\dovizKurCekme.pdb
-C:\Users\Elvan\Desktop\dovizKurCekme\dovizKurCekme\obj\Debug\dovizKurCekme.exe
-C:\Users\Elvan\Desktop\dovizKurCekme\dovizKurCekme\obj\Debug\dovizKurCekme.pdb

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<DormRegistiration>
+  <StudentInformations>
+    <StudentNumber>123</StudentNumber>
+    <DormID>asdas</DormID>
+    <FirstName>213</FirstName>
+    <LastName>das</LastName>
+    <Dorm_x0020_Room>213</Dorm_x0020_Room>
+    <Tel>sad</Tel>
+    <Mail>213</Mail>
+    <Age>das</Age>
+  </StudentInformations>
+  <StudentInformations>
+    <StudentNumber>123</StudentNumber>
+    <DormID>asdas</DormID>
+    <FirstName>213</FirstName>
+    <LastName>das</LastName>
+    <Dorm_x0020_Room>213</Dorm_x0020_Room>
+    <Tel>sad</Tel>
+    <Mail>213</Mail>
+    <Age>das</Age>
+  </StudentInformations>
+  <StudentInformations>
+    <StudentNumber>123</StudentNumber>
+    <DormID>asdas</DormID>
+    <FirstName>213</FirstName>
+    <LastName>das</LastName>
+    <Dorm_x0020_Room>213</Dorm_x0020_Room>
+    <Tel>sad</Tel>
+    <Mail>213</Mail>
+    <Age>das</Age>
+  </StudentInformations>
+  <StudentInformations>
+    <StudentNumber>123</StudentNumber>
+    <DormID>asdas</DormID>
+    <FirstName>213</FirstName>
+    <LastName>das</LastName>
+    <Dorm_x0020_Room>213</Dorm_x0020_Room>
+    <Tel>sad</Tel>
+    <Mail>213</Mail>
+    <Age>das</Age>
+  </StudentInformations>
+</DormRegistiration>

@@ -4,3 +4,10 @@ C:\Users\Elvan\Desktop\JsCss\JsCss\bin\JsCss.pdb
 C:\Users\Elvan\Desktop\JsCss\JsCss\obj\Debug\JsCss.csprojResolveAssemblyReference.cache
 C:\Users\Elvan\Desktop\JsCss\JsCss\obj\Debug\JsCss.dll
 C:\Users\Elvan\Desktop\JsCss\JsCss\obj\Debug\JsCss.pdb
+C:\Users\Selcuk\source\repos\Eski_ugraslar\JsCss\JsCss\bin\JsCss.dll.config
+C:\Users\Selcuk\source\repos\Eski_ugraslar\JsCss\JsCss\bin\JsCss.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\JsCss\JsCss\bin\JsCss.pdb
+C:\Users\Selcuk\source\repos\Eski_ugraslar\JsCss\JsCss\obj\Debug\JsCss.csprojAssemblyReference.cache
+C:\Users\Selcuk\source\repos\Eski_ugraslar\JsCss\JsCss\obj\Debug\JsCss.csproj.CoreCompileInputs.cache
+C:\Users\Selcuk\source\repos\Eski_ugraslar\JsCss\JsCss\obj\Debug\JsCss.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\JsCss\JsCss\obj\Debug\JsCss.pdb

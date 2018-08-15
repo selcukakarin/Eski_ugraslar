@@ -1,0 +1,10 @@
+C:\Users\Selcuk\source\repos\MathExample\MathExample\bin\Debug\MathExample.exe.config
+C:\Users\Selcuk\source\repos\MathExample\MathExample\bin\Debug\MathExample.exe
+C:\Users\Selcuk\source\repos\MathExample\MathExample\bin\Debug\MathExample.pdb
+C:\Users\Selcuk\source\repos\MathExample\MathExample\obj\Debug\MathExample.csprojAssemblyReference.cache
+C:\Users\Selcuk\source\repos\MathExample\MathExample\obj\Debug\MathExample.Form1.resources
+C:\Users\Selcuk\source\repos\MathExample\MathExample\obj\Debug\MathExample.Properties.Resources.resources
+C:\Users\Selcuk\source\repos\MathExample\MathExample\obj\Debug\MathExample.csproj.GenerateResource.cache
+C:\Users\Selcuk\source\repos\MathExample\MathExample\obj\Debug\MathExample.csproj.CoreCompileInputs.cache
+C:\Users\Selcuk\source\repos\MathExample\MathExample\obj\Debug\MathExample.exe
+C:\Users\Selcuk\source\repos\MathExample\MathExample\obj\Debug\MathExample.pdb

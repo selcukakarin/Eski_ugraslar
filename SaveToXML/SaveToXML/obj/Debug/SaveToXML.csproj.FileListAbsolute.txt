@@ -1,0 +1,11 @@
+C:\Users\Selcuk\source\repos\SaveToXML\SaveToXML\bin\Debug\SaveToXML.exe.config
+C:\Users\Selcuk\source\repos\SaveToXML\SaveToXML\bin\Debug\SaveToXML.exe
+C:\Users\Selcuk\source\repos\SaveToXML\SaveToXML\bin\Debug\SaveToXML.pdb
+C:\Users\Selcuk\source\repos\SaveToXML\SaveToXML\obj\Debug\SaveToXML.csprojAssemblyReference.cache
+C:\Users\Selcuk\source\repos\SaveToXML\SaveToXML\obj\Debug\SaveToXML.Form1.resources
+C:\Users\Selcuk\source\repos\SaveToXML\SaveToXML\obj\Debug\SaveToXML.Form2.resources
+C:\Users\Selcuk\source\repos\SaveToXML\SaveToXML\obj\Debug\SaveToXML.Properties.Resources.resources
+C:\Users\Selcuk\source\repos\SaveToXML\SaveToXML\obj\Debug\SaveToXML.csproj.GenerateResource.cache
+C:\Users\Selcuk\source\repos\SaveToXML\SaveToXML\obj\Debug\SaveToXML.csproj.CoreCompileInputs.cache
+C:\Users\Selcuk\source\repos\SaveToXML\SaveToXML\obj\Debug\SaveToXML.exe
+C:\Users\Selcuk\source\repos\SaveToXML\SaveToXML\obj\Debug\SaveToXML.pdb

@@ -4,3 +4,10 @@ C:\Users\Elvan\Desktop\JsCss1\JsCss1\bin\JsCss1.pdb
 C:\Users\Elvan\Desktop\JsCss1\JsCss1\obj\Debug\JsCss1.csprojResolveAssemblyReference.cache
 C:\Users\Elvan\Desktop\JsCss1\JsCss1\obj\Debug\JsCss1.dll
 C:\Users\Elvan\Desktop\JsCss1\JsCss1\obj\Debug\JsCss1.pdb
+C:\Users\Selcuk\source\repos\Eski_ugraslar\kartefekt\JsCss1\bin\JsCss1.dll.config
+C:\Users\Selcuk\source\repos\Eski_ugraslar\kartefekt\JsCss1\bin\JsCss1.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\kartefekt\JsCss1\bin\JsCss1.pdb
+C:\Users\Selcuk\source\repos\Eski_ugraslar\kartefekt\JsCss1\obj\Debug\JsCss1.csprojAssemblyReference.cache
+C:\Users\Selcuk\source\repos\Eski_ugraslar\kartefekt\JsCss1\obj\Debug\JsCss1.csproj.CoreCompileInputs.cache
+C:\Users\Selcuk\source\repos\Eski_ugraslar\kartefekt\JsCss1\obj\Debug\JsCss1.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\kartefekt\JsCss1\obj\Debug\JsCss1.pdb

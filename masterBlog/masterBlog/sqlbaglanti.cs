@@ -11,7 +11,7 @@ namespace masterBlog
     {
         public SqlConnection baglan()
         {
-            SqlConnection baglanti = new SqlConnection(@"Data Source=.;Initial Catalog=mobilyaci;Integrated Security=True;");
+            SqlConnection baglanti = new SqlConnection(@"Data Source=DESKTOP-5ACRMS5\SQLEXPRESS;Initial Catalog=mobilyaci;Integrated Security=True;");
             baglanti.Open();
 
             SqlConnection.ClearPool(baglanti);

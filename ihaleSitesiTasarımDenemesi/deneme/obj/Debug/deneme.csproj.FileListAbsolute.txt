@@ -1,0 +1,19 @@
+C:\Users\Elvan\Desktop\deneme\deneme\bin\deneme.dll.config
+C:\Users\Elvan\Desktop\deneme\deneme\bin\deneme.dll
+C:\Users\Elvan\Desktop\deneme\deneme\bin\deneme.pdb
+C:\Users\Elvan\Desktop\deneme\deneme\obj\Debug\deneme.dll
+C:\Users\Elvan\Desktop\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\Elvan\Desktop\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme\deneme\bin\deneme.dll.config
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme\deneme\bin\deneme.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme\deneme\bin\deneme.pdb
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme\deneme\obj\Debug\deneme.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\Selcuk\source\repos\Eski_ugraslar\deneme\deneme\bin\deneme.dll.config
+C:\Users\Selcuk\source\repos\Eski_ugraslar\deneme\deneme\bin\deneme.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\deneme\deneme\bin\deneme.pdb
+C:\Users\Selcuk\source\repos\Eski_ugraslar\deneme\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+C:\Users\Selcuk\source\repos\Eski_ugraslar\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\Selcuk\source\repos\Eski_ugraslar\deneme\deneme\obj\Debug\deneme.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\deneme\deneme\obj\Debug\deneme.pdb

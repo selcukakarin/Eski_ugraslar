@@ -1,0 +1,110 @@
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\ilkSitem.dll.config
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\ilkSitem.dll
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\ilkSitem.pdb
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\Newtonsoft.Json.dll
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Net.Http.dll
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Net.Http.WebRequest.dll
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Web.Helpers.dll
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Web.Mvc.dll
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Web.Razor.dll
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Web.WebPages.dll
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\Newtonsoft.Json.xml
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Net.Http.xml
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Net.Http.WebRequest.xml
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Web.Helpers.xml
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Web.Mvc.xml
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Web.Razor.xml
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Web.WebPages.xml
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\obj\Debug\ilkSitem.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\obj\Debug\ilkSitem.dll
+C:\Users\Elvan\Desktop\ilkSitem\ilkSitem\obj\Debug\ilkSitem.pdb
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\ilkSitem.dll.config
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\ilkSitem.dll
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\ilkSitem.pdb
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\Newtonsoft.Json.dll
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Net.Http.dll
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Net.Http.WebRequest.dll
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Web.Helpers.dll
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Web.Mvc.dll
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Web.Razor.dll
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.dll
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\Newtonsoft.Json.xml
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Net.Http.xml
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Net.Http.WebRequest.xml
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Web.Helpers.xml
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Web.Mvc.xml
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Web.Razor.xml
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.xml
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\obj\Debug\ilkSitem.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\obj\Debug\ilkSitem.dll
+C:\Users\Elvan\Desktop\ilkSitem - Kopya\ilkSitem\obj\Debug\ilkSitem.pdb
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\ilkSitem.dll.config
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\ilkSitem.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\ilkSitem.pdb
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\Newtonsoft.Json.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Net.Http.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Net.Http.WebRequest.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Web.Helpers.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Web.Mvc.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Web.Razor.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\Newtonsoft.Json.xml
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Net.Http.xml
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Net.Http.WebRequest.xml
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Web.Helpers.xml
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Web.Mvc.xml
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Web.Razor.xml
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.xml
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\obj\Debug\ilkSitem.csprojResolveAssemblyReference.cache
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\obj\Debug\ilkSitem.dll
+C:\Users\Elvan\Desktop\Yeni klasör (2)\ilkSitem - Kopya\ilkSitem\obj\Debug\ilkSitem.pdb
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\ilkSitem.dll.config
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\ilkSitem.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\ilkSitem.pdb
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\Newtonsoft.Json.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Net.Http.Formatting.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.Helpers.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.Http.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.Http.WebHost.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.Mvc.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.Razor.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Net.Http.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\Newtonsoft.Json.xml
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Net.Http.Formatting.xml
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.Helpers.xml
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.Http.xml
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.Http.WebHost.xml
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.Mvc.xml
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.Razor.xml
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.xml
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\bin\System.Net.Http.xml
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\obj\Debug\ilkSitem.csprojAssemblyReference.cache
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\obj\Debug\ilkSitem.csproj.CoreCompileInputs.cache
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\obj\Debug\ilkSitem.csproj.CopyComplete
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\obj\Debug\ilkSitem.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\ilkSitem - Kopya\ilkSitem\obj\Debug\ilkSitem.pdb

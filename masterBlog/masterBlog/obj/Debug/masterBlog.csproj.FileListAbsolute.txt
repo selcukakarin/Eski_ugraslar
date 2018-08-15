@@ -28,3 +28,16 @@ C:\Users\Elvan\Desktop\masterBlog\masterBlog\bin\EntityFramework.SqlServer.xml
 C:\Users\Elvan\Desktop\masterBlog\masterBlog\obj\Debug\masterBlog.csprojResolveAssemblyReference.cache
 C:\Users\Elvan\Desktop\masterBlog\masterBlog\obj\Debug\masterBlog.dll
 C:\Users\Elvan\Desktop\masterBlog\masterBlog\obj\Debug\masterBlog.pdb
+C:\Users\Selcuk\source\repos\Eski_ugraslar\masterBlog\masterBlog\bin\masterBlog.dll.config
+C:\Users\Selcuk\source\repos\Eski_ugraslar\masterBlog\masterBlog\bin\masterBlog.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\masterBlog\masterBlog\bin\masterBlog.pdb
+C:\Users\Selcuk\source\repos\Eski_ugraslar\masterBlog\masterBlog\bin\EntityFramework.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\masterBlog\masterBlog\bin\EntityFramework.SqlServer.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\masterBlog\masterBlog\bin\CKEditor.NET.pdb
+C:\Users\Selcuk\source\repos\Eski_ugraslar\masterBlog\masterBlog\bin\EntityFramework.xml
+C:\Users\Selcuk\source\repos\Eski_ugraslar\masterBlog\masterBlog\bin\EntityFramework.SqlServer.xml
+C:\Users\Selcuk\source\repos\Eski_ugraslar\masterBlog\masterBlog\obj\Debug\masterBlog.csprojAssemblyReference.cache
+C:\Users\Selcuk\source\repos\Eski_ugraslar\masterBlog\masterBlog\obj\Debug\masterBlog.csproj.CoreCompileInputs.cache
+C:\Users\Selcuk\source\repos\Eski_ugraslar\masterBlog\masterBlog\obj\Debug\masterBlog.csproj.CopyComplete
+C:\Users\Selcuk\source\repos\Eski_ugraslar\masterBlog\masterBlog\obj\Debug\masterBlog.dll
+C:\Users\Selcuk\source\repos\Eski_ugraslar\masterBlog\masterBlog\obj\Debug\masterBlog.pdb
